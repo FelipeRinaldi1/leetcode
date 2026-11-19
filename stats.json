@@ -1,0 +1,22 @@
+{
+  "totalSolved": 1,
+  "easySolved": 1,
+  "mediumSolved": 0,
+  "hardSolved": 0,
+  "lastUpdated": "2026-11-19T14:23:00.972Z",
+  "problems": {
+    "1757": {
+      "slug": "recyclable-and-low-fat-products",
+      "title": "Recyclable and Low Fat Products",
+      "difficulty": "Easy",
+      "language": "sql",
+      "runtime": null,
+      "memory": "5 MB",
+      "path": "1757-recyclable-and-low-fat-products/solution.sql",
+      "solvedAt": "2026-11-19T14:23:00.971Z",
+      "topics": [
+        "Database"
+      ]
+    }
+  }
+}

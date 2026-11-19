@@ -3,17 +3,17 @@
   "easySolved": 3,
   "mediumSolved": 0,
   "hardSolved": 0,
-  "lastUpdated": "2026-11-19T14:29:17.773Z",
+  "lastUpdated": "2026-11-19T14:46:20.308Z",
   "problems": {
     "1683": {
       "slug": "invalid-tweets",
       "title": "Invalid Tweets",
       "difficulty": "Easy",
       "language": "sql",
-      "runtime": null,
-      "memory": "5 MB",
+      "runtime": "572 ms",
+      "memory": "0B",
       "path": "1683-invalid-tweets/solution.sql",
-      "solvedAt": "2026-11-19T14:29:17.772Z",
+      "solvedAt": "2026-11-19T14:46:20.308Z",
       "topics": [
         "Database"
       ]

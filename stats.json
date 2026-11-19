@@ -1,9 +1,9 @@
 {
-  "totalSolved": 1,
-  "easySolved": 1,
+  "totalSolved": 2,
+  "easySolved": 2,
   "mediumSolved": 0,
   "hardSolved": 0,
-  "lastUpdated": "2026-11-19T14:23:00.972Z",
+  "lastUpdated": "2026-11-19T14:25:42.595Z",
   "problems": {
     "1757": {
       "slug": "recyclable-and-low-fat-products",
@@ -14,6 +14,19 @@
       "memory": "5 MB",
       "path": "1757-recyclable-and-low-fat-products/solution.sql",
       "solvedAt": "2026-11-19T14:23:00.971Z",
+      "topics": [
+        "Database"
+      ]
+    },
+    "0584": {
+      "slug": "find-customer-referee",
+      "title": "Find Customer Referee",
+      "difficulty": "Easy",
+      "language": "sql",
+      "runtime": null,
+      "memory": "5 MB",
+      "path": "0584-find-customer-referee/solution.sql",
+      "solvedAt": "2026-11-19T14:25:42.595Z",
       "topics": [
         "Database"
       ]

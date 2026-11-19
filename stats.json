@@ -1,9 +1,9 @@
 {
-  "totalSolved": 4,
-  "easySolved": 4,
+  "totalSolved": 5,
+  "easySolved": 5,
   "mediumSolved": 0,
   "hardSolved": 0,
-  "lastUpdated": "2026-11-19T14:49:33.733Z",
+  "lastUpdated": "2026-11-19T14:51:09.395Z",
   "problems": {
     "1148": {
       "slug": "article-views-i",
@@ -53,6 +53,19 @@
       "memory": "5 MB",
       "path": "0584-find-customer-referee/solution.sql",
       "solvedAt": "2026-11-19T14:25:42.595Z",
+      "topics": [
+        "Database"
+      ]
+    },
+    "0595": {
+      "slug": "big-countries",
+      "title": "Big Countries",
+      "difficulty": "Easy",
+      "language": "sql",
+      "runtime": "3115 ms",
+      "memory": "5 MB",
+      "path": "0595-big-countries/solution.sql",
+      "solvedAt": "2026-11-19T14:51:09.394Z",
       "topics": [
         "Database"
       ]

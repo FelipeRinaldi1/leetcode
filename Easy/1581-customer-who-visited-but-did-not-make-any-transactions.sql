@@ -2,7 +2,7 @@
  * LeetCode #1581: Customer Who Visited but Did Not Make Any Transactions
  * Difficulty: Easy
  * Language: Mysql
- * Date: 2026-11-22T17:12:55.731Z
+ * Date: 2026-11-22T17:13:19.391Z
  */
 
 select 

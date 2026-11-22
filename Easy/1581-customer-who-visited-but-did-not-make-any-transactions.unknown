@@ -1,0 +1,13 @@
+/**
+ * LeetCode #1581: Customer Who Visited but Did Not Make Any Transactions
+ * Difficulty: Easy
+ * Language: Unknown
+ * Date: 2026-11-22T17:48:40.482Z
+ */
+
+select
+    w.id
+from weather as w
+join weather as x
+on DATEDIFF(day,x.recordDate,w.recordDate) = 1 AND w.temperature > x.temperature
+

@@ -1,8 +1,14 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **5 solved** — 5 Easy, 0 Medium, 0 Hard.
+Auto-synced from LeetCode. **6 solved** — 6 Easy, 0 Medium, 0 Hard.
 
-_Last updated: 2026-11-19T14:51:09.395Z_
+_Last updated: 2026-11-24T19:55:26.254Z_
+
+## Array
+
+| # | Title | Difficulty | Language | Runtime | Memory |
+|---|-------|------------|----------|---------|--------|
+| 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | Easy | cs | 3 ms | 5 MB |
 
 ## Database
 

@@ -1,9 +1,9 @@
 {
-  "totalSolved": 5,
-  "easySolved": 5,
+  "totalSolved": 6,
+  "easySolved": 6,
   "mediumSolved": 0,
   "hardSolved": 0,
-  "lastUpdated": "2026-11-19T14:51:09.395Z",
+  "lastUpdated": "2026-11-24T19:55:26.253Z",
   "problems": {
     "1148": {
       "slug": "article-views-i",
@@ -68,6 +68,21 @@
       "solvedAt": "2026-11-19T14:51:09.394Z",
       "topics": [
         "Database"
+      ]
+    },
+    "0217": {
+      "slug": "contains-duplicate",
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "language": "cs",
+      "runtime": "3 ms",
+      "memory": "5 MB",
+      "path": "0217-contains-duplicate/solution.cs",
+      "solvedAt": "2026-11-24T19:55:26.252Z",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
       ]
     }
   }

@@ -3,7 +3,7 @@
   "easySolved": 8,
   "mediumSolved": 0,
   "hardSolved": 0,
-  "lastUpdated": "2026-11-25T12:17:58.624Z",
+  "lastUpdated": "2026-11-25T12:20:03.667Z",
   "problems": {
     "1148": {
       "slug": "article-views-i",
@@ -23,10 +23,10 @@
       "title": "Students and Examinations",
       "difficulty": "Easy",
       "language": "sql",
-      "runtime": "560 ms",
-      "memory": "5 MB",
+      "runtime": "377 ms",
+      "memory": "0B",
       "path": "1280-students-and-examinations/solution.sql",
-      "solvedAt": "2026-11-25T12:17:58.624Z",
+      "solvedAt": "2026-11-25T12:20:03.667Z",
       "topics": [
         "Database"
       ]

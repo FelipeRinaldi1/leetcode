@@ -1,9 +1,9 @@
 {
-  "totalSolved": 6,
-  "easySolved": 6,
+  "totalSolved": 7,
+  "easySolved": 7,
   "mediumSolved": 0,
   "hardSolved": 0,
-  "lastUpdated": "2026-11-24T19:55:26.253Z",
+  "lastUpdated": "2026-11-25T11:51:27.807Z",
   "problems": {
     "1148": {
       "slug": "article-views-i",
@@ -83,6 +83,19 @@
         "Array",
         "Hash Table",
         "Sorting"
+      ]
+    },
+    "0577": {
+      "slug": "employee-bonus",
+      "title": "Employee Bonus",
+      "difficulty": "Easy",
+      "language": "sql",
+      "runtime": "95 ms",
+      "memory": "5 MB",
+      "path": "0577-employee-bonus/solution.sql",
+      "solvedAt": "2026-11-25T11:51:27.804Z",
+      "topics": [
+        "Database"
       ]
     }
   }

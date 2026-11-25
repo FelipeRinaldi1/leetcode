@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **7 solved** — 7 Easy, 0 Medium, 0 Hard.
+Auto-synced from LeetCode. **8 solved** — 8 Easy, 0 Medium, 0 Hard.
 
-_Last updated: 2026-11-25T11:51:27.807Z_
+_Last updated: 2026-11-25T12:17:58.624Z_
 
 ## Array
 
@@ -18,5 +18,6 @@ _Last updated: 2026-11-25T11:51:27.807Z_
 | 0584 | [Find Customer Referee](0584-find-customer-referee/README.md) | Easy | sql | — | 5 MB |
 | 0595 | [Big Countries](0595-big-countries/README.md) | Easy | sql | 3115 ms | 5 MB |
 | 1148 | [Article Views I](1148-article-views-i/README.md) | Easy | sql | 543 ms | 0B |
+| 1280 | [Students and Examinations](1280-students-and-examinations/README.md) | Easy | sql | 560 ms | 5 MB |
 | 1683 | [Invalid Tweets](1683-invalid-tweets/README.md) | Easy | sql | 572 ms | 0B |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/README.md) | Easy | sql | — | 5 MB |

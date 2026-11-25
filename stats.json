@@ -1,9 +1,9 @@
 {
-  "totalSolved": 7,
-  "easySolved": 7,
+  "totalSolved": 8,
+  "easySolved": 8,
   "mediumSolved": 0,
   "hardSolved": 0,
-  "lastUpdated": "2026-11-25T11:51:27.807Z",
+  "lastUpdated": "2026-11-25T12:17:58.624Z",
   "problems": {
     "1148": {
       "slug": "article-views-i",
@@ -14,6 +14,19 @@
       "memory": "0B",
       "path": "1148-article-views-i/solution.sql",
       "solvedAt": "2026-11-19T14:49:33.732Z",
+      "topics": [
+        "Database"
+      ]
+    },
+    "1280": {
+      "slug": "students-and-examinations",
+      "title": "Students and Examinations",
+      "difficulty": "Easy",
+      "language": "sql",
+      "runtime": "560 ms",
+      "memory": "5 MB",
+      "path": "1280-students-and-examinations/solution.sql",
+      "solvedAt": "2026-11-25T12:17:58.624Z",
       "topics": [
         "Database"
       ]

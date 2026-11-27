@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-Auto-synced from LeetCode. **8 solved** — 8 Easy, 0 Medium, 0 Hard.
+Auto-synced from LeetCode. **9 solved** — 9 Easy, 0 Medium, 0 Hard.
 
-_Last updated: 2026-11-25T12:20:03.668Z_
+_Last updated: 2026-11-27T00:25:08.087Z_
 
 ## Array
 
@@ -21,3 +21,4 @@ _Last updated: 2026-11-25T12:20:03.668Z_
 | 1280 | [Students and Examinations](1280-students-and-examinations/README.md) | Easy | sql | 377 ms | 0B |
 | 1683 | [Invalid Tweets](1683-invalid-tweets/README.md) | Easy | sql | 572 ms | 0B |
 | 1757 | [Recyclable and Low Fat Products](1757-recyclable-and-low-fat-products/README.md) | Easy | sql | — | 5 MB |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Easy | sql | 183 ms | 5 MB |
